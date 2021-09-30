@@ -8,16 +8,15 @@
     
 </head>
 <body>
-    
+
     <h1>Hello world</h1>
 
     <?php 
-    $nama = 'Hidayati';
+    $nama = 'Hidayati Aziqah';
     $umur = 20 ;
 
     
     echo "$nama berumur $umur tahun";
-    
     ?>
 
 </body>
